@@ -79,4 +79,4 @@ The rendering part is with the npm package blessed. Blessed allows us to buil a 
 
 #### Hope this project helps or inspires you. Feel free to use and modify the code. Feel free too, to post a request for any optimisations ! 
 
-##### Happy coding ! ### :rocket: 
+##### Happy coding ! :rocket: 
